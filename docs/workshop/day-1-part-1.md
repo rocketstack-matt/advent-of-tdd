@@ -1,3 +1,10 @@
+---
+layout: default
+title: Day 1, Part 1
+nav_exclude: true
+permalink: /workshop/day-1-part-1
+---
+
 # Day 1: Calorie Counting
 
 ## Part 1
@@ -42,5 +49,3 @@ In case the Elves get hungry and need extra snacks, they need to know which Elf 
 Find the Elf carrying the most Calories. How many total Calories is that Elf carrying?
 
 To begin, get your puzzle input.
-
-Answer: 70613
