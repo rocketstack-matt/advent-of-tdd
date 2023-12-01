@@ -10,7 +10,7 @@ nav_order: 2
 
 Let's look again at [Part 1](/workshop/day-1-part-1/) of the puzzle.
 
-![Puzzle requirements](/../assets/requirements2.png)
+![Puzzle requirements](/assets/requirements2.png)
 
 The next part of the puzzle shows us what a puzzle input may look like and we can see for ourselves it represents 5 `Elves` because there are 5 separate blocks of numbers, each separated by a new line, which we already know represents creating a new `Elf`.
 

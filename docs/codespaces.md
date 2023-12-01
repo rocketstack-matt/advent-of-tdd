@@ -12,25 +12,25 @@ We have tried to make this tutorial as easy as possible to use, so you have the 
 
 First, you will want to Fork the [main repo](https://github.com/jpgough/advent-of-tdd/) so that you're able to work in your own space. Click 'fork' at the top of the repo.
 
-![Fork](/../assets/fork.png)
+![Fork](/assets/fork.png)
 
 You will see the following screen, make sure to uncheck 'Copy the main branch only' as this tutorial uses branches to walk you through each exercise and provide you with a working copy of the code at each step in case you get stuck.
 
-![Create a new fork](/../assets/create-a-new-fork.png)
+![Create a new fork](/assets/create-a-new-fork.png)
 
 Now, in your fork click on the down arrow next to the green 'Code' button, select the Codespaces tab if it isn't selected and click the '+' button.
 
-![Create Codespace](/../assets/create-codespace.png)
+![Create Codespace](/assets/create-codespace.png)
 
 Depending on your pre-existing configuration, GitHub may try to automatically open the Codespace in a browser tab or launch Visual Studio Code locally on your machine if you have it installed, from where it will set up a remote connection to the Codespace you have just created.
 
 If this doesn't happen automatically, click again on the little down arrow in the 'Code' button, and you should see your codespace. Click on the three dots next to the Codespace name, and you will see the menu below.
 
-![Manage your codespace](/../assets/manage-codespace.png)
+![Manage your codespace](/assets/manage-codespace.png)
 
 Select 'Open in ...' and you will see the following submenu.
 
-![Open In](/../assets/open-codespace-in.png)
+![Open In](/assets/open-codespace-in.png)
 
 If you want the simplest possible experience choose 'Open in browser' if you know you already have one of the other IDEs installed and setup locally feel free to use that, but we won't cover how to install a local IDE here.
 
@@ -38,18 +38,18 @@ If you want the simplest possible experience choose 'Open in browser' if you kno
 
 Assuming you've chosen the browser option, you will see something similar to below (note, we have seen issues with this not working in Safari in which case we suggest Chrome).
 
-![Setting up your Codespace](/../assets/setting-up-your-codepace.png)
+![Setting up your Codespace](/assets/setting-up-your-codepace.png)
 
 After a few seconds to a minute, you should see an in browser version of Visual Studio Code running with the repo checkout.
 
-![Running Codespace](/../assets/running-codespace.png)
+![Running Codespace](/assets/running-codespace.png)
 
 You Codespace is preconfigured with the Java JDK, Maven and other tools you will need for the Tutorial. You may however need to tell VS Code to import the Java Proejct explicitly, else it is possible that the Test Runner won't work.
 
-![Import Java Project](/../assets/import-java-project.png)
+![Import Java Project](/assets/import-java-project.png)
 
 Once the import process has run you should see the project name replace the Import Projects button you clicked previously.
 
-![Imported project](/../assets/imported-project.png)
+![Imported project](/assets/imported-project.png)
 
 You are now setup and ready to go with the tutorial. [Let's get going](/workshop)!
