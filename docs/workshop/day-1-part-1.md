@@ -2,7 +2,7 @@
 layout: page
 title: Day 1, Part 1
 nav_exclude: true
-permalink: /workshop/day-1-part-1
+permalink: /workshop/day-1-part-1/
 ---
 
 # Day 1: Calorie Counting
