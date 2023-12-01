@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Day 1, Part 2
 nav_exclude: true
 permalink: /workshop/day-1-part-2
