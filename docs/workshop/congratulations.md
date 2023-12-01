@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Congratulations
-permalink: /congratulations/
-nav_order: 3
+permalink: /workshop/congratulations/
+nav_order: 6
+parent: Workshop
 ---
 ## Congratulations
 

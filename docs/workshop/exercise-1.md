@@ -14,13 +14,13 @@ To solve the first part of the problem there are a few pieces to consider.
 
 Let's look at the first part of the puzzle.
 
-![Puzzle requirements](/docs/assets/requirements1.png)
+![Puzzle requirements](/../assets/requirements1.png)
 
 Most of the text is actually just setting the scene for the competition and how you will 'win' stars. The first real piece of information is all the way towards the end of the fourth paragraph. From this one sentence we can ascertain that Elves are going to carry food and each food will contain a certain number of `Calories`
 
 You are not going to go straight to getting the answer required by the exercise, instead we are going to start by focusing on the `Elf`.
 
-![Elves sat in a jungle](/docs/assets/elves.png)
+![Elves sat in a jungle](/../assets/elves.png)
 
 Looking at the problem the `Elf` is a key domain object and is a good place to start.
 Looking at the last line in the text above we can also see that we're likely going to need to read in a file (our puzzle input) line by line.
@@ -38,4 +38,4 @@ In the `/src/main/java/org/advent/day1` package in your fork, you will find a pa
 
 Try to implement all the other suggested test cases and update the `Elf` class to add the additional functionality required for them to pass.
 
-When you're ready to move on go to the [Exercise2](/workshop/exercise-2). If you get stuck and need some help, you will see a suggested solution in the [exercise-1](https://github.com/jpgough/advent-of-tdd/tree/exercise-1) branch.
+When you're ready to move on go to [Exercise 2](/workshop/exercise-2). If you get stuck and need some help, you will see a suggested solution in the [exercise-1](https://github.com/jpgough/advent-of-tdd/tree/exercise-1) branch.

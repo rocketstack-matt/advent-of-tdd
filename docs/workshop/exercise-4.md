@@ -26,7 +26,7 @@ Try and create a test and set up your mock for the following scenarios:
 
 Add a `Solution` class that uses the other part of the spike to read in the input file and print the answer.
 
-![Puzzle requirement](/docs/assets/requirements3.png)
+![Puzzle requirement](/../assets/requirements3.png)
 
 The input file we have given you at `/src/main/resources/day1-elf-calories.txt` matches the input we were given in the example, does your `Solution` print `24000` as expected?
 
@@ -35,3 +35,5 @@ If it does, it's time to get your first `Star`; each contestants input is unique
 Does it work as expected?
 
 You can find the solution and the expected value based on our input file in the [exercise-4](https://github.com/jpgough/advent-of-tdd/tree/exercise-4) branch.
+
+Ready for the final stage? [Exercise 5](/workshop/exercise-5/)
