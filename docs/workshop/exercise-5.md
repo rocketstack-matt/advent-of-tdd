@@ -11,7 +11,7 @@ Were you able to get your first Star? If the result wasn't correct try taking a 
 
 ### A New Part of the Problem
 
-[Part 2](/workshop/day-1-part-2) brings in a change in the requirements, just like real life!
+[Part 2]({{ site.baseurl }}/workshop/day-1-part-2) brings in a change in the requirements, just like real life!
 The change is quite easy to implement, we now need to find the top 3 total calories for the Elves.
 Let's add a new test to `TestElfCalorieCounter` to finish today's puzzle.
 You can find the solution in the [exercise-5](https://github.com/jpgough/advent-of-tdd/tree/final) branch.

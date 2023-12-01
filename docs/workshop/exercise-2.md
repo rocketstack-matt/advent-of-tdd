@@ -8,7 +8,7 @@ nav_order: 2
 ## Exercise 2
 ### Identifying tests from the requirements
 
-Let's look again at [Part 1](/workshop/day-1-part-1/) of the puzzle.
+Let's look again at [Part 1]({{ site.baseurl }}/workshop/day-1-part-1/) of the puzzle.
 
 ![Puzzle requirements]({{ site.baseurl }}/assets/requirements2.png)
 
@@ -23,5 +23,5 @@ What's more, the puzzle is actually giving us some test cases.
 
 Add additional tests to the `TestElfShould` class to capture the above scenarios.
 
-Once you're happy your solution can solve the provided test cases, lets go to [Exercise 3](/workshop/exercise-3/). Remember if you get stuck you can always check out the [exercise-2](https://github.com/jpgough/advent-of-tdd/tree/exercise-2) branch for a solution.
+Once you're happy your solution can solve the provided test cases, lets go to [Exercise 3]({{ site.baseurl }}/workshop/exercise-3/). Remember if you get stuck you can always check out the [exercise-2](https://github.com/jpgough/advent-of-tdd/tree/exercise-2) branch for a solution.
 

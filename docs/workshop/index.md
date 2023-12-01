@@ -17,4 +17,4 @@ If you want to make it even easier you can use [GitHub Codespaces](https://githu
 
 ## Let's get started
 
-If you're ready to go, let's go to [Exercise 1](/workshop/exercise-1/) and get moving. Happy coding!
+If you're ready to go, let's go to [Exercise 1]({{ site.baseurl }}/workshop/exercise-1/) and get moving. Happy coding!

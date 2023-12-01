@@ -52,4 +52,4 @@ Once the import process has run you should see the project name replace the Impo
 
 ![Imported project]({{ site.baseurl }}/assets/imported-project.png)
 
-You are now setup and ready to go with the tutorial. [Let's get going](/workshop)!
+You are now setup and ready to go with the tutorial. [Let's get going]({{ site.baseurl }}/workshop)!

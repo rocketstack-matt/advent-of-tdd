@@ -36,4 +36,4 @@ Does it work as expected?
 
 You can find the solution and the expected value based on our input file in the [exercise-4](https://github.com/jpgough/advent-of-tdd/tree/exercise-4) branch.
 
-Ready for the final stage? [Exercise 5](/workshop/exercise-5/)
+Ready for the final stage? [Exercise 5]({{ site.baseurl }}/workshop/exercise-5/)

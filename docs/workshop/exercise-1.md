@@ -8,7 +8,7 @@ nav_order: 1
 ## Exercise 1
 ### Breaking up the Problem - Unit Testing
 
-Start by reading the instructions for [Day 1, Part 1](/workshop/day-1-part-1/).
+Start by reading the instructions for [Day 1, Part 1]({{ site.baseurl }}/workshop/day-1-part-1/).
 As with regular requirements, there's a lot of extra information surrounding what you need to implement.
 To solve the first part of the problem there are a few pieces to consider.
 
@@ -38,4 +38,4 @@ In the `/src/main/java/org/advent/day1` package in your fork, you will find a pa
 
 Try to implement all the other suggested test cases and update the `Elf` class to add the additional functionality required for them to pass.
 
-When you're ready to move on go to [Exercise 2](/workshop/exercise-2). If you get stuck and need some help, you will see a suggested solution in the [exercise-1](https://github.com/jpgough/advent-of-tdd/tree/exercise-1) branch.
+When you're ready to move on go to [Exercise 2]({{ site.baseurl }}/workshop/exercise-2). If you get stuck and need some help, you will see a suggested solution in the [exercise-1](https://github.com/jpgough/advent-of-tdd/tree/exercise-1) branch.
